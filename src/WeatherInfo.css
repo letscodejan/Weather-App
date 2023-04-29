@@ -1,0 +1,25 @@
+.WeatherInfo .row .col-6 .city {
+  font-size: 30px;
+  line-height: 1;
+  padding-top: 8px;
+}
+
+.WeatherInfo .row .col-6 .text-capitalize {
+  font-size: 16 px;
+  font-weight: 600;
+  line-height: 1;
+  padding-top: 5px;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.WeatherInfo .row .col-6 .humidity,
+.WeatherInfo .row .col-6 .wind {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+.WeatherInfo .row .col-6 .icon-temp {
+  padding-top: 18px;
+}

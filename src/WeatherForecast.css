@@ -1,0 +1,20 @@
+.WeatherForecast {
+  text-align: center;
+}
+
+.WeatherForecast .col canvas {
+  display: block;
+  margin: 4px auto;
+}
+
+.WeatherForecastHours {
+  margin-top: 10px;
+  line-height: 50px;
+  font-size: 12px;
+  font-style: italic;
+  color: #302f2f;
+}
+.WeatherForecastHours:hover {
+  color: #f0f0f0;
+  text-decoration: underline;
+}

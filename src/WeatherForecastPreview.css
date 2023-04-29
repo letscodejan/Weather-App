@@ -1,0 +1,22 @@
+.ShowHours {
+  color: #000000;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 16px;
+  font-style: bold;
+  font-weight: 800;
+}
+
+.ShowTemperature {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #1d1c1c;
+  font-size: 14px;
+  font-style: bold;
+  font-weight: 800;
+}
+
+.ForecastPreview-Icon canvas {
+  width: 30px;
+  height: 30px;
+}
